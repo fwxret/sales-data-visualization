@@ -50,7 +50,7 @@ Chạy server:
 npm start
 ```
 
-### 3.Mở trình duyệt và truy cập vào http://localhost:3000 để xem giao diện trực quan hóa dữ liệu.
+### 3.Mở trình duyệt và truy cập vào http://localhost:3001 để xem giao diện trực quan hóa dữ liệu.
 Các API
 Dưới đây là các API chính mà ứng dụng sử dụng:
 
