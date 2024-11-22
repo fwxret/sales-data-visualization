@@ -72,4 +72,4 @@ Tối ưu hóa hiệu suất và giao diện người dùng.
 <img src="img/demo web.png">
 
 
--Link database:https://www.kaggle.com/datasets/yusufdelikkaya/online-sales-dataset
+- Link database:https://www.kaggle.com/datasets/yusufdelikkaya/online-sales-dataset
