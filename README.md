@@ -54,7 +54,7 @@ Dưới đây là các API chính mà ứng dụng sử dụng:
  Khi mở trang web, ứng dụng sẽ tự động gọi các API và hiển thị dữ liệu vào các biểu đồ. Bạn sẽ thấy thông tin về doanh thu hàng tháng, các danh mục sản phẩm, và các thông số khác được cập nhật liên tục.
 
 
-### 3.Demo
+### 3.Preview
 
 <img src="img/demo web.png">
 
