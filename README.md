@@ -42,13 +42,15 @@ Cài đặt các dependencies:
 
 ```bash
 npm install
-
-2. Chạy ứng dụng
+```
+### 2. Chạy ứng dụng
 Cấu hình MongoDB và kết nối tới cơ sở dữ liệu saledb.
 Chạy server:
 ```bash
 npm start
-Mở trình duyệt và truy cập vào http://localhost:3000 để xem giao diện trực quan hóa dữ liệu.
+```
+
+### 3.Mở trình duyệt và truy cập vào http://localhost:3000 để xem giao diện trực quan hóa dữ liệu.
 Các API
 Dưới đây là các API chính mà ứng dụng sử dụng:
 
@@ -61,7 +63,7 @@ Dưới đây là các API chính mà ứng dụng sử dụng:
 Cách sử dụng
 Khi mở trang web, ứng dụng sẽ tự động gọi các API và hiển thị dữ liệu vào các biểu đồ. Bạn sẽ thấy thông tin về doanh thu hàng tháng, các danh mục sản phẩm, và các thông số khác được cập nhật liên tục.
 
-Tương lai
+### 4.Tương lai
 Thêm tính năng lọc và phân tích dữ liệu nâng cao.
 Tích hợp với các dịch vụ bên ngoài để cải thiện khả năng phân tích dữ liệu.
 Tối ưu hóa hiệu suất và giao diện người dùng.
