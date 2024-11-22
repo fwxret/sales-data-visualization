@@ -27,7 +27,7 @@ Dự án này là một ứng dụng trực quan hóa dữ liệu bán hàng t�
   - HTML, CSS, JavaScript
   - Chart.js (cho biểu đồ)
 - **Công cụ khác**:
-  - Axios (cho các yêu cầu HTTP)
+  - Fetch API
   - Custom JavaScript file để xử lý dữ liệu và cập nhật giao diện.
 
 ## Cách cài đặt và chạy
@@ -38,19 +38,9 @@ Clone repo về máy của bạn:
 ```bash
 git clone https://github.com/<username>/sales-data-visualization.git
 cd sales-data-visualization
-Cài đặt các dependencies:
-
-```bash
-npm install
-```
-### 2. Chạy ứng dụng
-Cấu hình MongoDB và kết nối tới cơ sở dữ liệu saledb.
-Chạy server:
-```bash
-npm start
 ```
 
-### 3.Mở trình duyệt và truy cập vào http://localhost:3001 để xem giao diện trực quan hóa dữ liệu.
+### 2.Mở trình duyệt và truy cập vào http://localhost:3001 để xem giao diện trực quan hóa dữ liệu.
 Các API
 Dưới đây là các API chính mà ứng dụng sử dụng:
 
@@ -63,11 +53,8 @@ Dưới đây là các API chính mà ứng dụng sử dụng:
 -Cách sử dụng
  Khi mở trang web, ứng dụng sẽ tự động gọi các API và hiển thị dữ liệu vào các biểu đồ. Bạn sẽ thấy thông tin về doanh thu hàng tháng, các danh mục sản phẩm, và các thông số khác được cập nhật liên tục.
 
-### 4.Tương lai
-Thêm tính năng lọc và phân tích dữ liệu nâng cao.
-Tích hợp với các dịch vụ bên ngoài để cải thiện khả năng phân tích dữ liệu.
-Tối ưu hóa hiệu suất và giao diện người dùng.
-### 5 Demo
+
+### 3.Demo
 
 <img src="img/demo web.png">
 
