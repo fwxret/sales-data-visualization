@@ -67,3 +67,6 @@ Dưới đây là các API chính mà ứng dụng sử dụng:
 Thêm tính năng lọc và phân tích dữ liệu nâng cao.
 Tích hợp với các dịch vụ bên ngoài để cải thiện khả năng phân tích dữ liệu.
 Tối ưu hóa hiệu suất và giao diện người dùng.
+### 5 Demo
+
+<img src="img/demo web.png">
